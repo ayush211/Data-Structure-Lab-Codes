@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 void inputMatrix(int rows, int cols, int matrix[rows][cols]) {
     printf("Enter elements of the matrix:\n");
     for (int i = 0; i < rows; i++) {
