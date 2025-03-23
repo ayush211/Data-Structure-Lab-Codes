@@ -1,7 +1,6 @@
 #include <stdio.h>
 #define ROWS 2
 #define COLS 2
-
 // Function to input matrices
 void inputMatrix(const char *input, int matrix[ROWS][COLS])
 {
