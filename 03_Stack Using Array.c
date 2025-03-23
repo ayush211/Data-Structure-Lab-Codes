@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 int *stack = NULL; // Dynamic array for stack
 int top = -1, max_size = 0;
 
